@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.facebook.com/md.hridoy.mia09" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrHridoyEx/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrHridoyEx" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hridu2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrHridoyEx/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_MrHridoyEx" height="30" width="40" /></a>
 
-<script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
 </p>
 
 
