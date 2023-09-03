@@ -8,7 +8,7 @@
 MrHridoyEx/MrHridoyEx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://www.facebook.com/md.hridoy.mia09 me **hridoy09404@gmail.com**
+<h3 align="left">𝗣𝗬𝗧𝗛𝗢𝗡 𝗖𝗢𝗗𝗜𝗡𝗚 (ᵍⁱᵗʰᵘᵇ)𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 🅱︎🅰︎🅽︎🅶︎🅻︎🅰︎🅳︎🅴︎🆂︎🅷︎ Sirajganj,Ullapara:</h3>
 
 
 <h3 align="left">Connect with me:</h3>
