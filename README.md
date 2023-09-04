@@ -15,8 +15,9 @@ I’m👀 interested in ...<br>I’m🌱 currently learning ...<br>I’m💞️l
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrHridoyEx&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrHridoyEx&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/MrHridoyEx/MrHridoyEx/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
