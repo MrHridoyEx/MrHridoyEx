@@ -1,15 +1,8 @@
-  # 💫 About Me:
+                # 💫 About Me:
 # Hi 👋, I'm Hridoy<br>
 I’m👀 interested in ...<br>I’m🌱 currently learning ...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ...
 
-
-
-
-
-
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/45251660/48910563-18973a00-ee92-11e8-95e1-d3ddde8ed085.gif">
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.hridoy.mia09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hridu2004) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MrHridoyEx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Banned) 
