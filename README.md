@@ -1,6 +1,6 @@
   # 💫 About Me:
 # Hi 👋, I'm Hridoy<br>
-I’m👀 interested in ...<br>I’m🌱 currently learning ...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ...
+I’m👀 interested in programming...<br>I’m🌱 currently learning python coding...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ✅ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ewrhridoy00) 
 
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/45251660/48910563-18973a00-ee92-11e8-95e1-d3ddde8ed085.gif">
 
