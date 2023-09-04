@@ -1,7 +1,8 @@
   # 💫 About Me:
 # Hi 👋, I'm Hridoy<br>
 I’m👀 interested in ...<br>I’m🌱 currently learning ...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ...
-<img align="right" alt="Coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/1008/889/desktop-wallpaper-hacker-logo-hacker.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F45251660%2F48910563-18973a00-ee92-11e8-95e1-d3ddde8ed085.gif&tbnid=wtYb4VPsX4vUUM&vet=12ahUKEwiwqprpwZGBAxUZumMGHXhJBqAQMygIegQIARBr..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAKXX%2Ftermux&docid=SzLy6oTjPZUBrM&w=540&h=960&q=termux%20png%203d%20gif&ved=2ahUKEwiwqprpwZGBAxUZumMGHXhJBqAQMygIegQIARBr">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.hridoy.mia09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hridu2004) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MrHridoyEx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Banned) 
