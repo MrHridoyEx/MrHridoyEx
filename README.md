@@ -1,7 +1,7 @@
   # 💫 About Me:
 # Hi 👋, I'm Hridoy<br>
 I’m👀 interested in ...<br>I’m🌱 currently learning ...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ...
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F45251660%2F48910563-18973a00-ee92-11e8-95e1-d3ddde8ed085.gif&tbnid=wtYb4VPsX4vUUM&vet=12ahUKEwiwqprpwZGBAxUZumMGHXhJBqAQMygIegQIARBr..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAKXX%2Ftermux&docid=SzLy6oTjPZUBrM&w=540&h=960&q=termux%20png%203d%20gif&ved=2ahUKEwiwqprpwZGBAxUZumMGHXhJBqAQMygIegQIARBr">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/45251660/48910563-18973a00-ee92-11e8-95e1-d3ddde8ed085.gif">
 
 
 ## 🌐 Socials:
