@@ -1,6 +1,7 @@
   # 💫 About Me:
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+MrHridoyEx+HERE+😊;TODAY+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;PINK+LOVER+FIRST+CRACK+🙊;SUPPER+SPEED+0.0.9+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)]
+  
 # Hi 👋, I'm Hridoy<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=HELLO+WORLD+I'M+MrHridoyEx+HERE+😊;TODAY+I+WILL+TELL+YOU+💁;PLEASE+FOLLOW+MY+GITHUB+ACCOUNT+🙏;PINK+LOVER+FIRST+CRACK+🙊;SUPPER+SPEED+0.0.9+😱;SO+LETS+ENJOY+EVERYBODY+🔥+🤙;THANKS+MY+All+SUPPORTERS+🤙+🥰)]
 
 I’m👀 interested in programming...<br>I’m🌱 currently learning python coding...<br>I’m💞️looking to collaborate on ...<br>How📫 to reach me ✅ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ewrhridoy00) 
 
